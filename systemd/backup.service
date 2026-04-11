@@ -1,0 +1,8 @@
+[Unit]
+Description=Personal Backup Service
+
+[Service]
+Type=oneshot
+ExecStart=/home/obsessedume/Desktop/personal-backup-solution/backup.sh
+User=user
+StandardOutput=journal
