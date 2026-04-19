@@ -1,14 +1,13 @@
 *.tar
 *.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
+*.gz
 *.tgz
+
+backups/*
+!backups/.gitkeep
+
 *.log
 *.log.*
-*.sig
 
-pkg/
-src/
+logs/*
+!logs/.gitkeep
