@@ -1,0 +1,11 @@
+2026-04-19 20:28:11 - Starting FULL backup to backups/full_backup_2026-04-19_20-28-11.tar.gz
+2026-04-19 20:28:11 - Full backup completed successfully
+2026-04-19 20:28:11 - Backup finished
+
+2026-04-19 20:28:45 - Starting INCREMENTAL backup to backups/inc_backup_2026-04-19_20-28-45.tar.gz
+2026-04-19 20:28:45 - Incremental backup completed successfully
+2026-04-19 20:28:45 - Backup finished
+
+2026-04-19 21:47:45 - Starting FULL backup to backups/full_backup_2026-04-19_21-47-45.tar.gz
+2026-04-19 21:48:05 - SIGUSR1 received - backup process is running
+2026-04-19 21:48:06 - Full backup completed successfully
