@@ -4,8 +4,6 @@
 
 This project implements a personal backup solution for Linux using Bash scripting and standard system administration tools. The system creates compressed backups, supports rotation of old backups, writes detailed logs, handles process signals, and can be scheduled automatically through `systemd`.
 
-This project was created as a proof-of-concept for a system and network administration assignment.
-
 ## Project Goals
 
 The project implements the following functionality:
